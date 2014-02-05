@@ -1,0 +1,590 @@
+#+startup: beamer
+#+TITLE:     Einführung einer Zivilklausel
+#+AUTHOR:    Moritz Kütt
+#+INSTITUTE: Interdisziplinäre Arbeitsgruppe Naturwissenschaft, Technik und Sicherheit
+#+LaTeX_HEADER: \subtitle{Erfahrungen}
+#+LaTeX_HEADER: \institute[short name]{Interdisziplinäre Arbeitsgruppe Naturwissenschaft, Technik und Sicherheit\\Technische Universität Darmstadt\\[1em] \texttt{kuett@ianus.tu-darmstadt.de}\\[1em] Vortrag im Rahmen der Veranstaltung \\"Zivilklausel Jetzt", GEW Studierende Marburg\\ }
+#+EMAIL:     kuett@ianus.tu-darmstadt.de
+#+DATE:      04.02.2014 \\[0.6em] \includegraphics[width=1.5cm]{by-sa.png}\\\fontsize{5pt}{6}\selectfont Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International. Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by-sa/4.0/deed.de.
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [presentation]
+#+LANGUAGE:  de
+#+BEAMER_FRAME_LEVEL: 2
+#+BEAMER_HEADER_EXTRA: \usetheme{Frankfurt}
+#+BEAMER_HEADER_EXTRA: \setbeamercovered{transparent}
+#+BEAMER_HEADER_EXTRA: \makeatother
+#+BEAMER_HEADER_EXTRA: \setbeamertemplate{footline}
+#+BEAMER_HEADER_EXTRA: {%
+#+BEAMER_HEADER_EXTRA:   \leavevmode%
+#+BEAMER_HEADER_EXTRA:   \hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm]{author in head/foot}%
+#+BEAMER_HEADER_EXTRA:   \inserttitle
+#+BEAMER_HEADER_EXTRA:   \end{beamercolorbox}%
+#+BEAMER_HEADER_EXTRA:   \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{author in head/foot}%
+#+BEAMER_HEADER_EXTRA:     \usebeamerfont{author in head/foot}\insertshortauthor\hfill\insertpagenumber
+#+BEAMER_HEADER_EXTRA:   \end{beamercolorbox}}%
+#+BEAMER_HEADER_EXTRA:   \vskip0pt%
+#+BEAMER_HEADER_EXTRA: }
+#+BEAMER_HEADER_EXTRA: \makeatletter
+#+BEAMER_HEADER_EXTRA: \usepackage{remreset}
+#+BEAMER_HEADER_EXTRA: \makeatletter
+#+BEAMER_HEADER_EXTRA: \@removefromreset{subsection}{section}
+#+BEAMER_HEADER_EXTRA: \makeatother
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %10BEAMER_envargs(Env Args) %4BEAMER_col(Col) %8BEAMER_extra(Extra)
+#+PROPERTY: BEAMER_col_ALL 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 :ETC
+#+BEAMER: \setcounter{subsection}{1}
+
+* Geschichte Zivilklauseln
+
+** "Aufgezwungene" Zivilklauseln
+Die ersten Zivilklauseln waren durch Alliierte @extern@ erzwungene Bestimmungen.
+
+*** (Kern-)Forschungszentrum Karlsruhe 				    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+Zivilklausel, um insbesondere die Entwicklung von Kernwaffen zu verbieten, gleichzeitig zivile Reaktorforschung zu erlauben.
+
+*** TU Berlin							    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+Erlassen im Zusammenhang mit Vier-Mächte-Status der Stadt
+
+
+** Hessisches Universitätsgesetz
+
+Schon frühzeitig Zivilklausel-ähnliche Bestimmung \\ (§6 HUG - Informationspflicht, Fassung vom Januar 1974)
+
+*** §6 HUG - Informationspflicht				    :B_quote:
+    :PROPERTIES:
+    :BEAMER_env: quote
+    :END:
+    \small "Alle an Forschung und Lehre beteiligten Mitglieder und Angehörigen der Universitäten haben die gesellschaftlichen Folgen wissenschaftlicher Erkenntnis mitzubedenken. Werden ihnen Ergebnisse der Forschung, vor allem auf ihrem Fachgebiet bekannt, die bei verantwortungsloser Verwendung erhebliche Gefahr für die Gesundheit oder das Leben oder das @friedliche Zusammenleben@ der Menschen herbeiführen können, so sollen sie den zuständigen Fachbereichsrat oder ein zentrales Organ der Universität davon unterrichten."
+
+*** Rechtliche Überprüfung					    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+Bundesverfassungsgericht urteilt: "verfassungskonform" (BVerfGE 47, 327 ff., 01.03.1978)
+
+** Weitere Entwicklung
+*** Konventsbeschluss in Darmstadt (1973)			    
+*** Inhalt Konventsbeschluss					    :B_quote:
+    :PROPERTIES:
+    :BEAMER_env: quote
+    :END:
+    \small 1. Die Technische Hochschule Darmstadt lehnt die Durchführung militärischer Auftragsforschung innerhalb iherer Einrichtung ab.\\2. Die Technische Hochschule Darmstadt lehnt es grundsätzlich ab, Forschungsprojekte, die militärischer Geheimhaltung unterliegen, zu verfolgen, da solche Forschung mit dem Auftrag einer Hochschule zu Forschung und Lehre nicht vereinbar ist.
+#+BEAMER: \pause
+*** Mainzer Appell (1983)
+    Kongress mit über 3000 Teilnehmer, u.a. Linus Pauling, \\ 23 einflussreiche Wissenschaftler beschließen Appell
+*** Einführung Zivilklausel Uni Bremen (1986)
+*** Nach Wende: TU Berlin behält Zivilklausel (1991)
+
+** Neue Initiativen
+   - Neue Debatte angestoßen: Zusammenlegung FZK mit Universität Karlsruhe zum KIT
+   - Viele "Arbeitskreise"/"Aktionsgruppen", meist von Studierenden
+   - Urabstimmungen unter Studierenden \(\rightarrow\) nicht bindendes Mittel
+   - Erstarktes Bewusstsein in Politik \(\rightarrow\) Wahlprogramme, Koalitionsverträge
+   - Vermehrter Beschluss von Zivilklauseln
+
+*** Ernst Schmachtenberg, Rektor RWTH Aachen			    :B_quote:
+    :PROPERTIES:
+    :BEAMER_env: quote
+    :END:
+#+BEAMER: \fontsize{6pt}{7.2}\selectfont
+Wir Deutschen haben mit Rüstungsforschung eine Menge Unheil angerichtet. Ich halte diesen Weg für eine offene Universität in Deutschland für ungeeignet. Wenn Rüstungsforschung politisch gewollt ist, soll sie an eigens dafür eingerichteten Forschungsinstituten etabliert werden, nicht bei uns. Wir fordern aber nicht mehr Rüstungsforschung, sondern eine bessere Grundfinanzierung.
+#+BEAMER: \vskip1mm \hspace*\fill{\tiny--- Ernst Schmachtenberg, Rektor RWTH Aachen, VDI Nachrichten 36 (2012), S. 2}
+
+** Wo gibt es bisher Zivilklauseln?
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :BEAMER_envargs: C[t]
+    :END:
+**** Hessen						      :BMCOL:B_block:
+    :PROPERTIES:
+    :BEAMER_col: 0.5
+    :BEAMER_env: block
+    :END:
+    TU Darmstadt (09/2012)
+
+    Universität Frankfurt (01/2013)
+
+    Universität Kassel (12/2013)
+#+BEAMER: \pause
+
+**** Restliches Deutschland				      :BMCOL:B_block:
+     :PROPERTIES:
+     :BEAMER_col: 0.5
+     :BEAMER_env: block
+     :END:
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+     Forschungszentrum Karlsruhe
+
+     Universität Bremen (1986 / 1991)
+     
+     TU Berlin (1991)
+
+     Universität Konstanz (1991)
+
+     TU Dortmund (1991)
+
+#+BEAMER: \pause
+
+     Universität Oldenburg (2007)
+
+     TU Ilmenau (2010)
+
+     Universität Tübingen (09/2010)
+
+     Universität Rostock (2011)
+
+     Hochschule Bremen (06/2012)
+
+     Hochschule Bremerhaven (06/2012)
+
+     Universität Göttingen (02/2013)
+
+*** Weitere Aktivitäten				      :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+#+BEAMER: \pause
+    Weitere Bemühungen u.a. TU Dresden, Universität Köln, Universität Augsburg, Universität Münster, Universität Erlangen-Nürnberg, Universität Gießen, @Universität Marburg@ ...
+
+* Prozess in Darmstadt
+
+** Start: Erster Antrag
+*** Status Anfang 2010						    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    - Keine kontinuierliche Arbeit durch Gruppe
+    - Berichte in AStA Zeitung
+    - Anfragen in Senat nach Projekten
+    - kein (bekannter) aktueller Anlass
+#+BEAMER: \pause
+
+*** Antrag Universitätsversammlung (2011) 			    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    - Universitätsversammlung - höchstes Organ ("erweiterter Senat")
+    - Durch Studierende, aber auch andere Statusgruppen
+    - In Debatte: Alternativ-Vorschlag "Ethische Forschung"
+    
+    \( \Rightarrow \) Vertagung der Diskussion 
+
+** Vorbereitender Prozess
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :BEAMER_envargs: C[t]
+    :END:
+**** Hearing					       :BMCOL:B_exampleblock:
+     :PROPERTIES:
+     :BEAMER_col: 0.48
+     :BEAMER_env: exampleblock
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     Universitätsöffentliche Veranstaltung
+     - Offene Diskussion
+     - Ziel: Einbeziehung möglichst vieler Akteure
+     - Frühe Möglichkeit zur Äußerung von Kritik / Wünschen
+     - Alle Statusgruppen beteiligt
+     - Festlegung genereller Ziele
+**** Redaktionsgruppe				       :BMCOL:B_exampleblock:
+     :PROPERTIES:
+     :BEAMER_col: 0.48
+     :BEAMER_env: exampleblock
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     Ausgewählte TeilnehmerInnen des Hearing + Interessierte
+     - Intensive Textarbeit
+     - Entwurf Präambel
+     - Entwurf Leitlinien
+     - Rückkopplung mit Universität in Hearing
+     - Alle Statusgruppen beteiligt
+      
+*** End Columns						    :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+#+BEAMER:    \newline
+#+BEAMER: \begin{center}
+    Dauer des Prozesses: etwa ein Jahr
+#+BEAMER: \end{center}
+
+** Beschluss
+September 2012
+*** Aufnahme in Präambel der Grundordnung der TU Darmstadt 	    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+\small\emph{Forschung, Lehre und Studium an der Technischen Universität Darmstadt sind \alert{ausschließlich friedlichen Zielen} verpflichtet und sollen zivile Zwecke erfüllen; die Forschung, insbesondere die Entwicklung und Optimierung technischer Systeme, sowie Studium und Lehre sind auf eine zivile Verwendung ausgerichtet.}
+
+*** Leitlinien						    :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+    Gleichzeitig verabschiedete Leitlinien erklären Formulierung, geben Begründung sowie erste Umsetzungsideenn
+*** Alte Formulierung wird aufgehoben 			       :B_alertblock:
+    :PROPERTIES:
+    :BEAMER_env: alertblock
+    :END:
+    \small Mit Beschluss der neuen Formulierung werden die Beschlüsse von 1973 (Militärforschung) und 1986 (Friedenslehre) aufgehoben.
+    
+** Wie geht es derzeit weiter?
+
+*** Planung der Umsetzung					    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    Primär zuständig: Senat
+    - Einrichtung einer neuen Arbeitsgruppe
+    - wechselseitig: interne Treffen / universitätsweite Hearings
+    - Ziel: Senatsbeschluss
+
+*** Debattierte Maßnahmen					    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    - Fragebogen bei Drittmittelakquise
+    - Entscheidungsgremium für Zweifelsfälle
+    - Whistleblower
+    - Uniinternes Verzeichnis
+
+* Warum?
+
+** Gründe in Darmstadt
+
+   - keine (bekannten) aktuellen Anlässe (zum Zeitpunkt der Diskussion)
+   - Veraltetes (unbekanntes) Satzungsrecht, insbesondere nach Autonomiebemühungen
+   - bundesweite Befassung mit dem Thema
+   - erhöhte Drittmittelabhängigkeit von Universitäten
+     - Gefahr durch "Ausnutzung"
+     - Stärkung durch ZK gegenüber Partnern
+
+** Ziele einer Zivilklausel
+
+Allgemein (nicht nur Darmstadt-spezifisch)
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :BEAMER_envargs: C[t]
+    :END:
+**** Verbot von Rüstungsforschung			 :B_alertblock:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: alertblock
+     :BEAMER_col: 0.48
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     @negative Formulierung@\\[0.4em]
+     Typischerweise Verbot von Kooperationen mit militärischen Organisationen\\[0.4em]
+     Reduktion/Vermeidung Zusammenarbeit ziviler Einrichtungen mit militärischen\\[0.4em]
+     Einfacher zu prüfen\\[0.4em]
+     Notwendig: Offenlegung von Drittmitteln
+**** Verstärktes Problembewusstsein 		       :B_exampleblock:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: exampleblock
+     :BEAMER_col: 0.48
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     @positive Formulierung@\\[0.4em]
+     Zielsetzung: Friede bzw. rein zivile Forschung\\[0.4em]
+     Erfüllung schwieriger zu prüfen\\[0.4em]
+     Veränderung durch Überzeugung\\[0.4em]
+     Diskurse/Debatten über Verwendung von Gütern\\[0.4em]
+     Sollte grundsätzlicher Teil des wissenschaftlichen Arbeitens werden
+
+
+** Militärische Finanzierung von Projekten
+*** Veröffentlichung militärischer Förderung			    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+\small Im Dezember an vielen deutschen Universitäten.
+
+\small Gestern: Deutlich umfassendere Liste niedersächsicher Universitäten (ca. 25 Mio. €)
+
+#+BEAMER: \pause
+*** Stellungnahme Osnabrück (03.02.2014): 			    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+\small "Entscheidend sei nicht, „woher das Geld kommt, sondern wofür wissenschaftliche Erkenntnisse hinterher verwendet werden." (Neue Osnabrücker Zeitung)
+
+#+BEAMER: \pause
+*** Was sind Absichten des Militärs? 				    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+\small Beispiel: "The core objective of DoD Basic Research is to discover knowledge that can be exploited to provide the U.S. with "technical overmatch" against any adversary, in any battlespace, at any time."
+
+\tiny Quelle: Department of Defense, Basic Research Plan, April 2008
+
+
+** Militärische Finanzierung von Projekten II
+
+Vergleich von zwei geförderten Projekten
+
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :BEAMER_envargs: C[t]
+    :END:
+
+**** Universität Osnabrück				 :B_alertblock:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: alertblock
+     :BEAMER_col: 0.48
+     :END:
+     Cognition and Neuroergonomics (CAN/CTA)/ "Multi-modal sensory attention"\\[1em]
+     
+     Gefördert von: U.S. Army Research Laboratory
+
+**** Hochschule Osnabrück			       :B_exampleblock:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: exampleblock
+     :BEAMER_col: 0.48
+     :END:
+     O.K-GIS - Offenes Katastrophenmanagement mit freiem GIS\\[1em]
+
+     Gefördert von: Bundesministerium für Bildung und Forschung
+
+*** No Heading 						    :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+    Warum fördert das Militär?
+
+    These: Hochschulen können gewisse Aufgaben günstiger als eigene F&E Abteilungen erledigen.
+
+** Transparent und Öffentlich
+   - Öffentliche Universitäten sollten Projekte/Förderer veröffentlichen (kein @Verstecken@)
+     Rechenschaft gegenüber größtem "Dritt"-mittelgeber - Bürger des Landes
+   - Bloßstellungen vermeiden 
+   - Informationssysteme sind aus vielen Gründen notwendig
+   - Anwendungsmöglichkeiten erkennen ist schwierig\newline
+     \(\rightarrow\) entbindet jedoch nicht vor der Verantwortung, Versuch zu machen!
+
+** Bewertung des Darmstädter Beschlusses
+
+   - Der Darmstädter Beschluss ist "positive Zivilklausel" / Friedensklausel
+   - Aufhebung der alten Formulierungen \(\rightarrow\) unnötig
+   - neue Debatte angestoßen
+   - im Prozess: @Juristen haben gefehlt@
+   - Schwierig: Transparenz
+   - Problematisch: Kein Prüfbares Verbot
+
+*** Beispiel für Transparenz					    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    Hochschulinformationssystem Universität für Bodenkulturen, Wien\\
+    https://forschung.boku.ac.at/fis/suchen.startseite
+
+* Umsetzung einer Zivilklausel
+** Schwierigkeiten
+Bisher keine Hochschule mit umfassenden Umsetzungsrichtlinien.
+
+\vspace{0.7cm}
+
+Regulierung von Forschung und Lehre: Schwierig, aber nicht unmöglich.
+
+
+** Implizit und Explizit
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :END:
+**** Implizite Umsetzung				      :B_block:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :BEAMER_col: 0.48
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     - Zivilklausel muss "gelebt" werden
+     - sollte Teil der Kultur von Forschung und Lehre einer Universität sein
+     - "im Hinterkopf behalten"
+     - Umfeld schaffen, in welchem @militärische Forschung nicht nötig@ und nicht möglich ist
+     - vor allem durch Individuen, auch durch Struktur
+
+**** Explizite Umsetzung			      :B_ignoreheading:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: ignoreheading
+     :BEAMER_col: 0.48
+     :END:
+
+** Zivilklausel als Prozess(e)
+#+ATTR_LATEX: width=\textwidth
+[[./prozesse2.png]]
+
+** Implizit und Explizit
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :BEAMER_envargs: C[t]
+    :END:
+**** Implizite Umsetzung				      :B_block:BMCOL:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :BEAMER_col: 0.48
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     - Zivilklausel muss "gelebt" werden
+     - sollte Teil der Kultur von Forschung und Lehre einer Universität sein
+     - "im Hinterkopf behalten"
+     - Umfeld schaffen, in welchem @militärische Forschung nicht nötig@ und nicht möglich ist
+     - vor allem durch Individuen, auch durch Struktur
+
+
+**** Explizite Umsetzung 				      :BMCOL:B_block:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :BEAMER_col: 0.48
+     :END:
+#+BEAMER: \fontsize{10pt}{12}\selectfont
+     - neben gelebter Umsetzung auch explizite Umsetzung sinvoll
+     - Explizite Umsetzung durch: @Definition klarer Regeln@
+     Wichtig: Explizite Umsetzung und Regeln dürfen nicht dazu führen, dass implizte Umsetzung vergessen wird!
+#+BEAMER: \begin{center}
+     \emph{"Ja, hier oben links auf dem Formular müssen Sie immer ein Kreuz machen!"}
+#+BEAMER: \end{center}
+
+** Konkrete Möglichkeiten
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Formularverfahren (Ankündigungsverfahren) :: \tiny Formular bei Beginn von Drittmittelprojekten
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Rechenschaftsverfahren :: \tiny Rechenschaftsbericht im Anschluss an Projekte\\
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Gremium :: \tiny Ethikkomission o.ä. zur Entscheidung strittiger Fälle\\
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Unterstützung der Verwaltung :: \tiny Weiterbildung zur besseren Erkennung strittiger Fälle\\
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Öffentliche Einsichtnahme :: \tiny transparente Darstellung von Hochschulaktivitäten
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Whistleblower :: \tiny Schutz von Informanten, Schutz vor Falschinformation
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Berufungsrichtlinien :: \tiny zivile Ausrichtung von Forschungsschwerpunkten
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Richtlinien für Qualifikationsarbeiten :: \tiny für Themen / Anfertigung
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Ausfallmittelvergabe :: \tiny Ersatz entfallener Mittel aus zentralem Topf
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Externe Umsetzung I: Scientific Community :: \tiny Erfahrungsaustausch, spezielle Konferenzen
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Externe Umsetzung II: Geld-/Gesetzgeber :: \tiny Zivilklausel als Förderungsbedingung
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - PR-Maßnahmen :: \tiny Werbung/Information in und um Hochschule
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Lehre :: \tiny Vermittlung von verantwortlicher Forschung
+#+BEAMER: \fontsize{8pt}{9.6}\selectfont
+   - Siegel / Zertifikat :: \tiny Selbstverpflichtung, bzw. Ausschluss ungewollter Nutzung
+  
+
+* Abschließendes
+
+** Wichtige Informationsquellen
+*** Columns							  :B_columns:
+    :PROPERTIES:
+    :BEAMER_env: columns
+    :BEAMER_envargs: C[t]
+    :END:
+
+**** DokuKit					      :BMCOL:B_ignoreheading:
+     :PROPERTIES:
+     :BEAMER_col: 0.25
+     :BEAMER_env: ignoreheading
+     :END:
+#+ATTR_LATEX: width=\textwidth
+[[./dokukit.png]]
+
+\tiny www.stattweb.de\\
+\tiny /files/DokuKITcivil.pdf
+**** Deiseroth					      :BMCOL:B_ignoreheading:
+     :PROPERTIES:
+     :BEAMER_col: 0.25
+     :BEAMER_env: ignoreheading
+     :END:
+#+ATTR_LATEX: width=\textwidth
+[[./deiseroth.png]]
+#+BEAMER: \newline
+\tiny Dieter Deiseroth (1997)
+**** Nielebock					      :BMCOL:B_ignoreheading:
+     :PROPERTIES:
+     :BEAMER_col: 0.25
+     :BEAMER_env: ignoreheading
+     :END:
+#+ATTR_LATEX: width=\textwidth
+[[./nielebock.png]]
+#+BEAMER: \newline
+\tiny Nielebock et al. (2012)
+**** Rechtsgutachten Denninger			      :BMCOL:B_ignoreheading:
+     :PROPERTIES:
+     :BEAMER_col: 0.25
+     :BEAMER_env: ignoreheading
+     :END:
+#+ATTR_LATEX: width=\textwidth
+[[./denninger.png]]
+#+BEAMER:\newline
+\tiny Gutachten Denninger
+
+** Zivilklausel in Marburg
+Oder in ganz Hessen?
+** Diskussion
+*** Vielen Dank							    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    Für Einladung, Aufmerksamkeit und Diskussion!
+
+*** No Title						    :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+    Fragen / Anmerkungen: kuett@ianus.tu-darmstadt.de
+
+
+** Anhang
+   #+LATEX: \appendix
+* Rechtliches
+
+** Grundsatzfrage
+Verstößt eine Zivilklausel gegen die Freiheit von Forschung und Lehre? (Grundgesetz)
+
+*** Title							    :B_quote:
+    :PROPERTIES:
+    :BEAMER_env: quote
+    :END:
+    Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.
+#+BEAMER: \vskip1mm \hspace*\fill{\tiny--- Grundgesetz, Art. 5 Abs. 3}
+
+** Debatte unter Juristen
+   Seit langem gibt es Debatte unter Juristen, einige Positionen:
+   - Erhard Denninger (2009, Hans-Böckler-Stiftung)
+   - Hans-Detlef Horn (2012, Artikel)
+   - Bernd Hoppe (2012, Uni Kassel)
+   \vspace{0.5cm}
+   Der Artikel wird oft vor dem Bundesverfassungsgericht debattiert, Auslegung und Gültigkeit kontinuierlich weiterentwickelt.
+
+** Eigene Interpretation
+
+   - Universitäten geben Gratifikationen / Leistungen an ihre Mitglieder
+     - Räume
+     - Technische Infrastruktur
+     - Drittmittelverwaltung
+   - Mitgliedern steht es frei, die Leistungen in Anspruch zu nehmen
+   - Universitäten können sich auf bestimmte Richtungen festlegen („Technische Universität“, „Zukunftskonzept“, Fachbereichsstruktur, etc.)
+   - Ausrichtung auf Friedlichkeit entspricht Friedensfinalität des Grundgesetzes
+     
+   \(\rightarrow\) Festlegung auf „friedliche Ziele“ daher rechtmäßig
+
+* Umsetzung
+** Konkrete Möglichkeiten
+Vor- und Nachteile detailliert dargestellt in anderem Vortrag:
+
+"Tag der Zivilklausel, Darmstadt, 2012"
+
+http://www.ianus.tu-darmstadt.de/zivilklausel
+
